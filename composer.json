@@ -1,0 +1,17 @@
+{
+    "name": "frank/cms",
+    "authors": [
+        {
+            "name": "Broadwater G",
+            "email": "frankj1995@hotmail.co.uk"
+        }
+    ],
+    "autoload": {
+        "classmap": ["classes"]
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "pusher/pusher-php-server": "^4.0",
+        "vlucas/phpdotenv": "^3.4"
+    }
+}

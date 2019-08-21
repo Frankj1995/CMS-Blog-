@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.env.example
+vendor
+fonts/
+js/
+classes/
+css/bootstrap.css
+css/bootstrap.min.css
